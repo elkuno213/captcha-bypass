@@ -3,3 +3,4 @@ matplotlib
 scipy
 selenium==4.1.3
 jupyter
+pandas
